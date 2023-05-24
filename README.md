@@ -34,4 +34,4 @@
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xMrNiko&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false" alt="Mr.Niko" /></p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Niko.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/aounion.png" alt="TryHackMe">
