@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aounion</h1>
-<h3 align="center">I am an O'Levels Student and I Love Computer Science, Specifically Cyber-Security, My Interests include Cyber-Sec, Programming, Hacking, Electronics, Pen-Testing, and Game Dev.</h3>
+<h3 align="center">WHAT YOU LOOKIN AT??????????????</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aouni0n&label=Profile%20views&color=0e75b6&style=flat" alt="aouni0n" /> </p>
 
