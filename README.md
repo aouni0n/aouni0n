@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aouni0n&label=Profile%20views&color=0e75b6&style=flat" alt="aouni0n" /> </p>
 
-- 🌱 I’m currently learning **Cyber-Sec, Programming, AI, ML, and Game Dev**
+- Dizzy click this https://open.spotify.com/playlist/2mNUDO9xXGePVUAbAfVQOB?si=faa06229e6c5437b&pt=081843b71543e8fc03aa303af0086d14**
 
 - 📫 How to reach me **aounabbasaws@gmail.com**
 
