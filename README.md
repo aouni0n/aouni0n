@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aounion</h1>
-<h3 align="center">WHAT YOU LOOKIN AT??????????????</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aouni0n&label=Profile%20views&color=0e75b6&style=flat" alt="aouni0n" /> </p>
-
-- NAME click this oppsies**
 
 - 📫 How to reach me **aounabbasaws@gmail.com**
 
