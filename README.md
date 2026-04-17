@@ -1,24 +1,24 @@
 <h1 align="center">Aounion</h1>
 
 <h3 align="center">
-Embedded Systems • Robotics • AI Systems • Physics-Oriented Engineering
+Computer Science • Robotics • Electronics • Physics
 </h3>
 
 <p align="center">
-Building real systems to understand how they behave — from signals to software.
+Elecltronics Hobbyist.
 </p>
 
 ---
 
 ## ⚛️ About Me
 
-I am a student focused on **Computer Engineering**, with strong interests in:
+I am an Alevels student focused on **Engineering** & **Physics**, with strong interests in:
 
-- Embedded Systems  
-- Robotics & Automation  
-- AI-integrated hardware  
-- Cybersecurity tools  
-- Physics-driven system design  
+-Computer Scinece
+-CyberSecurity
+-Partical Physics
+-Quantum Physics 
+-AND EVERY KIND OF PHYSICS THERE IS 
 
 Most of my learning happens through **hands-on system building**, testing ideas in hardware, and refining designs through debugging and iteration.
 
