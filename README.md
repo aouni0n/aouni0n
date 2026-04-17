@@ -20,48 +20,7 @@ I am an Alevels student focused on **Engineering** & **Physics**, with strong in
 -Quantum Physics 
 -AND EVERY KIND OF PHYSICS THERE IS 
 
-Most of my learning happens through **hands-on system building**, testing ideas in hardware, and refining designs through debugging and iteration.
-
----
-
-## 🧪 Core Skills
-
-**Programming**
-
-- Python  
-- C / C++  
-- Embedded C  
-- Bash  
-- SQL  
-
-**Embedded & Hardware**
-
-- Arduino & ESP32  
-- Microcontroller Programming  
-- Sensor Integration  
-- Servo & Motor Control  
-- Hardware Debugging  
-- Signal Logic  
-
-**Software & Systems**
-
-- Linux Systems  
-- Networking Basics  
-- Automation Tools  
-- Computer Vision Integration  
-- AI Model Usage  
-
-**Engineering Focus**
-
-- Robotics Systems  
-- Embedded Platforms  
-- Detection Systems  
-- System Integration  
-- Physics-based Thinking  
-
----
-
-## 🛠️ Tools & Technologies
+## Tools & Languages
 
 <p align="left">
 
@@ -85,32 +44,7 @@ Most of my learning happens through **hands-on system building**, testing ideas 
 
 ---
 
-## 📡 Key Projects
-
-**AI Smart Assistant System**  
-Multi-functional automation assistant integrating sensors and real-time task execution.
-
-**AI-Based Targeting System**  
-Computer vision–based detection and servo-controlled targeting platform.
-
-**Quadcopter Drone Platform**  
-Custom-built drone focused on control logic and hardware integration.
-
-**Radar-Style Detection System (Ongoing)**  
-Rotating scanning system simulating radar-style environmental detection.
-
----
-
-## 🧠 Current Focus
-
-- Embedded system architecture  
-- Robotics and automation  
-- AI-driven hardware integration  
-- System reliability and debugging  
-- Signal-based detection methods  
-
----
-
+## Projects
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -126,7 +60,7 @@ Rotating scanning system simulating radar-style environmental detection.
 ## 📫 Contact
 
 📧 Email: **aounabbasaws@gmail.com**  
-🐙 GitHub: **github.com/aouni0n**
+Instagram : **https://instagram.com/aouni0n**
 
 ---
 
