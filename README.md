@@ -1,4 +1,4 @@
-<h1 align="center">Aoun Abbas Naqvi</h1>
+<h1 align="center">Aounion</h1>
 
 <h3 align="center">
 Embedded Systems • Robotics • AI Systems • Physics-Oriented Engineering
